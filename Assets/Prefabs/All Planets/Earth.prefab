@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5324849297429799229
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6371
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6371
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6371
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027554, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: mass
+      value: 5.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: UiIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: 4f38e2d22ac1d984985c0f5977d62fcf, type: 3}
+    - target: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: planetSize
+      value: 12756
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: sizeCategory
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: orbitDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027558, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: m_Name
+      value: Earth
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027560, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: eccentricity
+      value: 0.017
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027560, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: semiMajorAxis
+      value: 1496
+      objectReference: {fileID: 0}
+    - target: {fileID: 671965732725027560, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      propertyPath: degreeOfPeriapsis
+      value: 102.9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 671965732725027558, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7724788646912874237}
+  m_SourcePrefab: {fileID: 100100000, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+--- !u!1 &4663168998303978459 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 671965732725027558, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+  m_PrefabInstance: {fileID: 5324849297429799229}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-7724788646912874237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4663168998303978459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd323633853f32146a4da618f6fa22cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  diameter: 12756
+  mass: 0
+  distToSun: 0
+  atmosMass: 5.148e+18
+  avgMolarMass: 28.97
+  energyFromSun: 3.85e+26
+  solarConst: Infinity
+  intEnergy: NaN
+  absorption: 0.78
+  airDensity: 1.225
+  gravForce: NaN
+  sizeMult: 10
+  planet: {fileID: 4663168998303978462}
+  crustComp: {fileID: 0}
+  atmosComp: {fileID: 0}
+--- !u!114 &4663168998303978462 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 671965732725027555, guid: 38ba1e2ccd17e6046a9413f13b6032e0, type: 3}
+  m_PrefabInstance: {fileID: 5324849297429799229}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4663168998303978459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3a8b14ca4792748ba0d0467427c5b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
